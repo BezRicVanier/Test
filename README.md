@@ -1,2 +1,3 @@
 # Test
 Test repository with Readme file inside it.
+Hello World! My name is Richard. I am interested in both the physical and language acpects of programming, and I have expereince working with Arduino and Raspberry Pi, as well as languages such as C# and more basic languages such as Turing and Pascal. I aspire to learn more about coding and use my knowledge to help me in my future higher education and career.I like programming becuase it gives me the freedom to use creative solutions to solve problems and acheive tasks. I enjoy the thrill of coming to a solution or getting a program to work after I have been working on it for a long time.
